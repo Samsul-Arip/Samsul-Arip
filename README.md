@@ -34,6 +34,6 @@ Currently, I'm diving deep into **Financial Tech** apps and exploring **Reverse 
 * I love tinkering with systems and understanding how things work under the hood.
 
 <p align="left">
-<a href="https://linkedin.com/in/username-anda" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="mailto:email-anda@gmail.com"><img align="center" src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+<a href="https://www.linkedin.com/in/samsularipin/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="mailto:samsularp33@gmail.com"><img align="center" src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 </p>
