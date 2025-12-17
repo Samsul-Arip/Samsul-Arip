@@ -1,9 +1,9 @@
 # Hi there, I'm Samsul! 👋
 ### Mobile Engineer | Android (Kotlin) & iOS (Swift)
 
-A recent graduate and innovative Mobile Developer with a passion for building native applications. I enjoy navigating the entire mobile development lifecycle, from logic to pixel-perfect UI.
+With **4+ years of industry experience**, I specialize in building high-performance native applications for both Android and iOS ecosystems. My expertise lies in crafting scalable architectures, implementing clean code principles, and delivering seamless user experiences.
 
-Currently, I'm diving deep into **Financial Tech** apps and exploring **Reverse Engineering**.
+I have a strong background in **FinTech** solutions and a deep interest in **app security/reverse engineering**.
 
 ---
 
