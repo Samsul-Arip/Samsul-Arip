@@ -1,46 +1,39 @@
-### Hi there, I'm Sam - 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/Sam00143615?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+# Hi there, I'm Samsul! 👋
+### Mobile Engineer | Android (Kotlin) & iOS (Swift)
 
-## I like Developing Mobile Applications
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2028 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play drums
+A recent graduate and innovative Mobile Developer with a passion for building native applications. I enjoy navigating the entire mobile development lifecycle, from logic to pixel-perfect UI.
 
-### Connect with me:
-<img align="left" alt="codeSTACKr | YouTube" width="22px" color = "#fffff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<br />
+Currently, I'm diving deep into **Financial Tech** apps and exploring **Reverse Engineering**.
 
-### Languages and Tools:
+---
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+### 🛠 Tech Stack
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+| Platform | Languages | Frameworks & Tools |
+| :--- | :--- | :--- |
+| **Android** | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | Jetpack Compose, XML, MVVM, Retrofit, Room |
+| **iOS** | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white) | SwiftUI, UIKit, SwiftData, CoreData, Combine |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) | Xcode, Figma, Postman, Jira |
 
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+---
 
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+### 🔭 Current Focus
+* 🌱 Refining my skills in **SwiftUI & SwiftData** architecture.
+* 📈 Building personal projects focused on **Financial Management & Trading Analysis**.
+* 🔐 Experimenting with **APK Reverse Engineering** to understand app security better.
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+### 💼 What I Do
+* **Native Development:** Building robust apps for both ecosystems (Play Store & App Store).
+* **Clean Architecture:** Writing maintainable code using MVVM/Clean patterns.
+* **UI/UX Implementation:** Translating designs into smooth, interactive mobile experiences.
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+---
 
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
+### ⚡ Fun Facts
+* I analyze **IPO stocks** and day-trade when I'm not coding.
+* I love tinkering with systems and understanding how things work under the hood.
 
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
-<br />
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samsul-Arip&show_icons=true&theme=radical)
+<p align="left">
+<a href="https://linkedin.com/in/username-anda" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="mailto:email-anda@gmail.com"><img align="center" src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+</p>
